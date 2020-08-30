@@ -1,5 +1,8 @@
 _repo: Araminta-and-the-Automobile-Araminta-and-the-AutomobileThe-Deception-of-Martha-TuckerWhile-th__63009
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63009-h/images/cover.jpg
 creator:
   author:
     agent_name: Loomis, Charles Battell
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40637
     wikipedia: https://en.wikipedia.org/wiki/Charles_Battell_Loomis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63009#Araminta-and-the-Automobile-Araminta-and-the-AutomobileThe-Deception-of-Martha-TuckerWhile-th_
 gutenberg_issued: '2020-08-22'
 gutenberg_type: Text
 identifiers:
